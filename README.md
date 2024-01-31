@@ -4,8 +4,6 @@ Estudande de tecnologia💻🧮
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://S3miDeus.com)
 [![Istagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/Semideus)
 
-<div style="display: inline_bock"/><br/><img oling= "center" alt= "**" src="https://github-readme-stats.vercel.app/api/top-langs/?username=S3miDeus&theme=blue-green"/>
-</div>
 
 ### Tecnologias que estudo atualmente
 
